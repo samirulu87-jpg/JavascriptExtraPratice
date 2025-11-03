@@ -1,0 +1,21 @@
+.mainpagebody {
+ background-color: rgb(255, 207, 110);
+    padding-top: 40px;
+}
+.bodycard {
+    background-color: rgb(250, 224, 139);
+    padding: 20px;
+    margin: 20%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mainpagebody h2 {
+    color: rgb(111, 95, 5);
+}
+a  {
+    color: rgb(95, 59, 21); 
+}
